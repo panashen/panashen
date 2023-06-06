@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @panashen
-- 👀 I’m interested in the cloud ☁️
-- 🌱 I’m currently learning AWS/GCP/Azure
+- 👀 I am interested in the cloud ☁️
+- 🌱 Building things in AWS
 
 <!---
 panashen/panashen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
